@@ -1,4 +1,4 @@
-# ejercicio 4
+# ejercicio 4 taller
 import math
 
 # input 
@@ -10,7 +10,7 @@ altura=float(input("digite su altura: "))
 
 IMC=(peso/altura**2)
 
-#output
+#output 
 
 if IMC<16:
     print("usted tiene criterio de ingreso al hospital")
