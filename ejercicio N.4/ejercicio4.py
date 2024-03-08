@@ -25,13 +25,13 @@ elif IMC >18 and IMC <25:
     print("usted tiene un peso normal")
 
 elif IMC >25 and IMC <30:
-    print("usted tiene sobrepeso(obesidad grado 1)")
+    print("usted tiene sobrepeso (obesidad grado 1)")
 
 elif IMC >30 and IMC <35:
-    print("usted tiene obesidad cronica(obesidad de grado 2)")
+    print("usted tiene obesidad cronica (obesidad de grado 2)")
 
 elif IMC >35 and IMC <40:
-    print("udted tiene obecidad premorbida(obecidad de grado 3)")
+    print("udted tiene obecidad premorbida (obecidad de grado 3)")
 
 elif IMC >40:
-    print("udted tiene obecidad morbida(obecidad de grado 4)")
+    print("udted tiene obecidad morbida (obecidad de grado 4)")
