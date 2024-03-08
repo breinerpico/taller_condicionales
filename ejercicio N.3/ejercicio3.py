@@ -2,7 +2,7 @@
 
 # input 
 
-Precio_costo=int(input("digite el costo delproducto: "))
+Precio_costo=int(input("digite el costo del producto: "))
 
 # processing
 
@@ -19,4 +19,4 @@ Precio_venta= Precio_costo + ganancia
 
 # output
 
-print(" el producto tiene un costo de $" + str( Precio_costo ) + "con una ganacia de $" + str( ganancia) + "queda con una ganancia de $" + str (Precio_venta))
+print(" el producto tiene un costo de $" + str( Precio_costo ) + " con una ganacia de $ " + str( ganancia) + " queda con un precio de $" + str (Precio_venta))
