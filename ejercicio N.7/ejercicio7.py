@@ -1,4 +1,4 @@
-# input
+# input ejercicio 7
  
  
 a = int(input("Ingrese un numero para A: "))
