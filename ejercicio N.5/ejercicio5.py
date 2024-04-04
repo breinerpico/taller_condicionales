@@ -4,7 +4,7 @@ metros_gastados=int(input("digite los metros cuadrados: "))
 
 # processing 
 
-if metros_gastados >50: 
+if metros_gastados <=50: 
     costo=0 
 
 elif metros_gastados >50 and metros_gastados <=200:
